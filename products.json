@@ -1,0 +1,51 @@
+{
+  "company": "AutoStream",
+  "description": "AutoStream provides automated video editing tools for content creators, powered by AI.",
+  "plans": {
+    "basic": {
+      "name": "Basic Plan",
+      "price": "$29/month",
+      "features": [
+        "10 videos per month",
+        "720p resolution",
+        "Basic editing tools",
+        "Email support"
+      ]
+    },
+    "pro": {
+      "name": "Pro Plan",
+      "price": "$79/month",
+      "features": [
+        "Unlimited videos",
+        "4K resolution",
+        "AI captions",
+        "Advanced editing tools",
+        "24/7 priority support"
+      ]
+    }
+  },
+  "policies": {
+    "refund": "No refunds after 7 days of purchase.",
+    "support": "24/7 support is available only on the Pro plan. Basic plan users get email support.",
+    "trial": "We offer a 7-day free trial on both plans.",
+    "cancellation": "You can cancel your subscription at any time. Access continues until the end of the billing period."
+  },
+  "faqs": [
+    {
+      "question": "What platforms does AutoStream support?",
+      "answer": "AutoStream supports YouTube, Instagram, TikTok, Twitter/X, and Facebook for direct publishing."
+    },
+    {
+      "question": "Can I upgrade from Basic to Pro?",
+      "answer": "Yes, you can upgrade at any time. The price difference will be prorated for the remaining days in your billing cycle."
+    },
+    {
+      "question": "Does AutoStream support team collaboration?",
+      "answer": "Team collaboration is available on the Pro plan, allowing up to 5 team members."
+    },
+    {
+      "question": "What AI features are included?",
+      "answer": "The Pro plan includes AI captions, auto-highlight detection, smart trimming, and background noise removal."
+    }
+  ]
+}
